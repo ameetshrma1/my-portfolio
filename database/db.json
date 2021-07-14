@@ -8,7 +8,7 @@
         }
     ],
     "about": {
-        "detail" : "I am Amit Shama, an entry level web developer, My Skills are HTML5, CSS3, Bootstrap, Python, Working knowledge of JavaScript Fundamentals, ES6 and Typescript, Thorough understanding of React.js and its core principles ,Working knowledge of Node.js and Express, Familiarity with RESTful APIs, Knowledge of version control system i.e. Git, Package manager NPM, yarn, Familiarity with NPM packages like axios, json-server, bcrypt.js, jsonwebtoken, cors, mongoose, and nodemon, Knowledge of modern authorization,mechanisms, such as JSON Web Token Database: MongoDB Familiarity with React Bootstrap, Ant Design and Material UI",
+        "detail" : "I am Amit Sharma, an entry level web developer, My Skills are HTML5, CSS3, Bootstrap, Python, Working knowledge of JavaScript Fundamentals, ES6 and Typescript, Thorough understanding of React.js and its core principles ,Working knowledge of Node.js and Express, Familiarity with RESTful APIs, Knowledge of version control system i.e. Git, Package manager NPM, yarn, Familiarity with NPM packages like axios, json-server, bcrypt.js, jsonwebtoken, cors, mongoose, and nodemon, Knowledge of modern authorization,mechanisms, such as JSON Web Token Database: MongoDB Familiarity with React Bootstrap, Ant Design and Material UI",
         "image" : "https://avatarfiles.alphacoders.com/852/thumb-1920-85231.jpg"
     },
     "education": [
